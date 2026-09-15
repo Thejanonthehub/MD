@@ -23,11 +23,10 @@
 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 30px; margin: 25px 0;">
-    <img src="images/lammps.jpg"  height="10" alt="LAMMPS">
-    <img src="images/qe.jpg" height="10" alt="Quantum ESPRESSO">
-    <img src="images/abaqus.jpg" height="10" alt="Abaqus">
+    <img src="images/lammps.jpg"  height="50" alt="LAMMPS">
+    <img src="images/qe.jpg" height="50" alt="Quantum ESPRESSO">
+    <img src="images/abaqus.jpg" height="50" alt="Abaqus">
 </div>
-
 
 
 
